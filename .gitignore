@@ -1,0 +1,11 @@
+*
+!/**/
+!*.py
+!*.txt
+!*.md
+!*.ipynb
+!*.sh
+!*.R
+!*.r
+!*.gitignore
+!*.jpg
